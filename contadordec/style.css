@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url(https://post-phinf.pstatic.net/MjAxNzExMjRfMSAg/MDAxNTExNTEzMTY1Nzk3.SmDNnZ6ko-Ie-DZgDxgdIW0Z3T4kddwJizs7OCJhF9Yg.yoPJlEE1ZiiZO00D1ENK1YDs8HAHH1tI9GULB7__-9Yg.JPEG/5a1682f81658d2738275.jpg?type=w1200);
+    background-size: cover;
+}
+
+#contador {
+    background-color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #333;
+}
+
+textarea {
+    width: 80%;
+    height: 150px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#resultado {
+    font-size: 18px;
+}
